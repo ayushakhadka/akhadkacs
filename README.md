@@ -33,23 +33,27 @@ I will be graduating in the fall of 2022 with a BS in Computer Science. I am act
 <!--   Use this for gettimg icons for MY STACK, https://simpleicons.org/?q=c%23 -->
 
 ## <img src = "https://media.giphy.com/media/g56gooqsqe7X4Mwv7r/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Skills
-![badge-java](https://img.shields.io/badge/code-java-00FFFD?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
-![badge-c sharp](https://img.shields.io/badge/code-c%20sharp-00FFFD?style=for-the-badge&logo=csharp&logoColor=white&labelColor=21223e)
+![badge-java](https://img.shields.io/badge/Code-Java-red?style=flat-square&logo=java)
+![badge-c sharp](https://img.shields.io/badge/Code-C%23-blueviolet?style=flat-square&logo=c-sharp)
 
 <!-- ![badge-typescript](https://img.shields.io/badge/code-typescript-00FFFD?style=for-the-badge&logo=typescript&logoColor=white&labelColor=21223e)
 ![badge-python](https://img.shields.io/badge/code-python-00FFFD?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e) -->
 
+![badge-spring](https://img.shields.io/badge/Framework-Spring%20Boot-success?style=flat-square&logo=springboot)
+![badge-react](https://img.shields.io/badge/Framework-React-critical?style=flat-square&logo=react&logoColor=white&labelColor=21223e)
+  
+<!-- 
+  ![badge-dotnet](https://img.shields.io/badge/framework-asp.net-00FFFD?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=21223e)
+COMMENTED OUT ![badge-node](https://img.shields.io/badge/code-node_js-00FFFD?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e) -->
 
-![badge-react](https://img.shields.io/badge/framework-react-00FFFD?style=for-the-badge&logo=react&logoColor=white&labelColor=21223e)
-![badge-dotnet](https://img.shields.io/badge/framework-asp.net-00FFFD?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=21223e)
-![badge-flask](https://img.shields.io/badge/framework-flask-00FFFD?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
-<!-- COMMENTED OUT ![badge-node](https://img.shields.io/badge/code-node_js-00FFFD?style=for-the-badge&logo=npm&logoColor=white&labelColor=21223e) -->
-
-![badge-postgresql](https://img.shields.io/badge/database-postgresql-00FFFD?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
+![badge-postgresql](https://img.shields.io/badge/Database-PostgreSql-informational?style=flat-square&logo=postgresql)
+  <!--
 ![badge-mongo](https://img.shields.io/badge/database-mongodb-00FFFD?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=21223e)
-
+-->
 <!-- ![badge-mac](https://img.shields.io/badge/os-mac-00FFFD?style=for-the-badge&logo=apple&logoColor=white&labelColor=21223e) -->
-![badge-vscode](https://img.shields.io/badge/editor-vscode-00FFFD?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
+![badge-eclipse](https://img.shields.io/badge/IDE-Eclipse-purple?style=flat-square&logo=eclipse)
+![badge-spring](https://img.shields.io/badge/IDE-Spring%20STS-brightgreen?style=flat-square&logo=spring)
+![badge-vscode](https://img.shields.io/badge/IDE-VS%20Code-informational?style=flat-square&logo=visualstudiocode)
 <!-- COMMENTED OUT AWS BADGE ![badge-aws](https://img.shields.io/badge/cloud-aws-00FFFD?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e) -->
 
 
