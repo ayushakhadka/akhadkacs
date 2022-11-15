@@ -64,7 +64,7 @@ COMMENTED OUT ![badge-node](https://img.shields.io/badge/code-node_js-00FFFD?sty
 <!-- ## Let's Connect -->
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/ayusha-khadka-b44264180/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/ayusha-khadka/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:akhadkacs@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 
  </p>
