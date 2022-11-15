@@ -54,6 +54,8 @@ COMMENTED OUT ![badge-node](https://img.shields.io/badge/code-node_js-00FFFD?sty
 ![badge-eclipse](https://img.shields.io/badge/IDE-Eclipse-purple?style=flat-square&logo=eclipse)
 ![badge-spring](https://img.shields.io/badge/IDE-Spring%20STS-brightgreen?style=flat-square&logo=spring)
 ![badge-vscode](https://img.shields.io/badge/IDE-VS%20Code-informational?style=flat-square&logo=visualstudiocode)
+![badge-intellij](https://img.shields.io/badge/IntelliJ-IDE-black?style=flat-square&logo=IntelliJ%20Idea)
+  
 <!-- COMMENTED OUT AWS BADGE ![badge-aws](https://img.shields.io/badge/cloud-aws-00FFFD?style=for-the-badge&logo=amazon&logoColor=white&labelColor=21223e) -->
 
 
