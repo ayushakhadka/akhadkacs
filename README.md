@@ -26,7 +26,7 @@ Aspiring Software Engineer with a deep interest to develop software that exceeds
   <strong> | Experience with Full Stack | MERN-Stack |  </strong>
 </p> -->
 
-I am a recent graduate with a BS in Computer Science. I am actively seeking a position as an entry-level software developer.  Some skills I possess are Core Java, Spring Boot, Rest APIs, React, design patterns, algorithms & data structures .... ..
+I have a BS in Computer Science. I am actively seeking a position as an Junior software developer.  Some skills I possess are Core Java, Spring Boot, Rest APIs, React, design patterns, Microservices, devops, algorithms & data structures .... ..
 
 
   
